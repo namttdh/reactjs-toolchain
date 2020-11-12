@@ -1,5 +1,5 @@
 ## ReactJS Toolchain
-Thiss project provide fastway and easy customize
+This project provides fastway and easy customize when started a new ReactJS App
 
 Which include ReactJS + Babel + Typescript + Webpack for complier and bundle. Besides which contain serveral dependencies for every basic reactjs SPA.
 
